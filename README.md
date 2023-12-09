@@ -1,11 +1,1 @@
-<div>
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-  <img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183069490070683658/veryjokerge.gif" alt="hello" width="10%">
-</div>
+<img src="https://random-d.uk/api/44.gif" alt="hello" width="100%">
