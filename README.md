@@ -1,1 +1,1 @@
-<img src="https://tenor.com/view/%D0%BE%D0%B3%D1%83%D0%B7%D0%BE%D0%BA-%D0%B0%D0%B3%D1%83%D0%B7%D0%BE%D0%BA-%D0%B0%D0%B3%D1%83%D0%B7%D0%B0%D0%BA-%D0%BE%D0%B3%D1%83%D0%B7%D0%B0%D0%BA-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-gif-10738017686757296958" alt="hello" width="100%">
+<img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183077055810777158/-.gif" alt="hello" width="100%">
