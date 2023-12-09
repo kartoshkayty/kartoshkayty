@@ -1,1 +1,1 @@
-<img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183077055810777158/-.gif" alt="hello" width="100%">
+<img src="https://cdn.discordapp.com/attachments/1022933772984918026/1183075348364144810/veryjokerge_1.gif?ex=658703c7&is=65748ec7&hm=8461d3d1cb7abeb15ab2d4b70737ec50dd95c42c8fccceda272040f85a724b33&" alt="hello" width="100%">
